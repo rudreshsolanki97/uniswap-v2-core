@@ -27,6 +27,18 @@ The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/br
 - Router V02 - 0x6FE19EFCBa8a3590f205b9Ea89697aabF7d56e73 
 - Pair ( Token A - Token B ) - 0x115505752fDe033CE0C7b8C0A7ab06b7e7B406bF
 
+
+
+## Rinkeby - Post INIT_CODE_HASH - 2
+
+- Factory - 0x411704b590Fc04370F0A6a93e6e705D9570aE52f  
+- Token A - 0x7717FC488464efa40AaABB260D063d7783660C44  
+- Token B - 0x3270FeB4DA58eD8d95Bd8f04CBA5B24a1bb4925a  
+- WETH - 0xA7b2bF4662138d2247Ca36f699627d73Ba7b43E3  
+- Router V02 - 0x099Fe126A6c52FAc87Abf151835Be03F1AC3F90c 
+- Pair ( Token A - Token B ) - 0x53b3ad0DeBf08EfF18d211739CDe938f76E641f1
+
+
 # Local Development
 
 The following assumes the use of `node@>=10`.
