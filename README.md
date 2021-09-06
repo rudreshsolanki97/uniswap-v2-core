@@ -1,12 +1,6 @@
 # Uniswap V2
 
-[![Actions Status](https://github.com/Uniswap/uniswap-v2-core/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-v2-core/actions)
-[![Version](https://img.shields.io/npm/v/@uniswap/v2-core)](https://www.npmjs.com/package/@uniswap/v2-core)
-
-In-depth documentation on Uniswap V2 is available at [uniswap.org](https://uniswap.org/docs).
-
-The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@uniswap/v2-core@latest/).
-
+Get latest INIT_CODE_HASH from factory
 # Deployments
 
 ## Rinkeby
@@ -37,6 +31,16 @@ The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/br
 - WETH - 0xA7b2bF4662138d2247Ca36f699627d73Ba7b43E3  
 - Router V02 - 0x099Fe126A6c52FAc87Abf151835Be03F1AC3F90c 
 - Pair ( Token A - Token B ) - 0x53b3ad0DeBf08EfF18d211739CDe938f76E641f1
+
+
+## DevNet
+
+ - Factory - 0xd0d807433d4e1C229f61E15bD5E3E0CcB5C7B1A7
+ - WXDC - 0x6A67DE9634A30901E11fCC0C9A23b9A11b84a264
+ - Router V02 - 0x3b7BCAF7944CC60d8ea55d5E0Ee767a7c97969f8
+ - Token A - 0xB2f380Fe2AbBF248D335d67D15Da67b0c6EC8060
+ - Token B - 0x1A0712E03A402459a4B3AC36C5B3ED0F19582c13
+ - Pair - 0xe840DE66bC660198704cc39f5B2692f684312429
 
 
 # Local Development
